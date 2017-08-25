@@ -11,3 +11,5 @@ booooooi
 esketit
 
 dette er en altfor komplisert chat
+
+hvordan laster jeg opp memes?
