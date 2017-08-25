@@ -29,3 +29,5 @@ kommer før 19 vertfall
 
 på atom. ka vinduer har du åpne sander?
 >>>>>>> 78b1115814cfb35d84ea7b62a0fd70e7eb78391e
+import(dankmemes.img)
+run(miakhalifa)
