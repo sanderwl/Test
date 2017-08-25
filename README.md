@@ -9,3 +9,5 @@ hello
 booooooi
 
 esketit
+
+dette er en altfor komplisert chat
