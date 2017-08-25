@@ -11,3 +11,5 @@ booooooi
 esketit
 
 dette er en altfor komplisert chat
+
+skal jeg komme 17 eller 19 imorgen?
